@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Hurricane Barry
+title: Hurricane Doria
 email: info@codeforamerica.org
 description: >- #m this means to ignore newlines until "baseurl:"
   Code for America 2019 Response
@@ -25,7 +25,7 @@ permalink: pretty
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
-repository: hurricane-response/barry
+repository: hurricane-response/dorian
 
 remote_theme:  hurricane-response/response-theme
 
@@ -37,7 +37,7 @@ gtag: UA-125718262-2
 # mapbox access token
 mapbox_access_token: pk.eyJ1IjoibWlrbGItYzR0YiIsImEiOiJjam5kOGg3c2kwMDB3M3dwYXQyMDJpdzFtIn0.yKOyo193qF1quWsNwiFzug
 
-shelter_map_center: -92.0198, 30.2241
+shelter_map_center: -66.5901, 18.2208
 
 pod_map_center: -92.0198, 30.2241
 
