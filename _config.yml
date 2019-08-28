@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Hurricane Doria
+title: Hurricane Dorian
 email: info@codeforamerica.org
 description: >- #m this means to ignore newlines until "baseurl:"
   Code for America 2019 Response
