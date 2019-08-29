@@ -53,6 +53,9 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
+# Still need to look into build and caching issues from Barry, using a constant in config for now so we know a build is triggered.
+build: 2
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
