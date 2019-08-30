@@ -32,7 +32,7 @@ remote_theme:  hurricane-response/response-theme
 logo: assets/images/og_img.jpg
 
 # Site settings
-gtag: UA-125718262-2
+gtag: UA-125718262-4
 
 # mapbox access token
 mapbox_access_token: pk.eyJ1IjoibWlrbGItYzR0YiIsImEiOiJjam5kOGg3c2kwMDB3M3dwYXQyMDJpdzFtIn0.yKOyo193qF1quWsNwiFzug
