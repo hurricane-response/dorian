@@ -37,9 +37,11 @@ gtag: UA-125718262-4
 # mapbox access token
 mapbox_access_token: pk.eyJ1IjoibWlrbGItYzR0YiIsImEiOiJjam5kOGg3c2kwMDB3M3dwYXQyMDJpdzFtIn0.yKOyo193qF1quWsNwiFzug
 
-shelter_map_center: -66.5901, 18.2208
+shelter_map_center: -81.0228, 30.2956975
+shelter_zoom: 6
 
-pod_map_center: -92.0198, 30.2241
+pod_map_center: -81.0228, 30.2956975
+pod_zoom: 6
 
 shelter_endpoint: https://api.hurricane-response.org/api/v1/shelters/geo.json
 
